@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.slideshow {
+    width: 100vw;
+    height: 100vh;
+}
+
+.sliders {
+    width: 5000px;
+    height: 100vh;
+
+    display: flex;
+}
+
+.slide {
+    width: 100vw;
+}
+
+.slide--area {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    width: auto;
+}
+
+img {
+    height: 100vh;
+    width: auto;
+}
