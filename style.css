@@ -4,6 +4,14 @@ body {
     box-sizing: border-box;
 }
 
+<<<<<<< HEAD
+=======
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+>>>>>>> 04acb71c9a8d055a85287221ac518699359e3c16
 .container--img {
     width: 100%;
     height: 100%;
@@ -12,4 +20,8 @@ body {
 img {
     width: 100%;
     height: 100%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 04acb71c9a8d055a85287221ac518699359e3c16
